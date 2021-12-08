@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mchaudhury
-- 👀 I’m interested in Web Development, particularly in HTML, CSS and JavaScript.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on Web Developement Projects
+- 👀 I’m interested in Software Development, particularly in JavaScript, Java and Spring Boot
+- 🌱 I’m currently learning Full Stack Software development with Node.js
+- 💞️ I’m looking to collaborate on Software Developement Projects
 - 📫 How to reach me: mushsalcha@gmail.com
 
 <!---
