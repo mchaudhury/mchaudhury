@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mchaudhury
 - 👀 I’m interested in Software Development, particularly in JavaScript, Java and Spring Boot
-- 🌱 I’m currently learning Full Stack Software development with Node.js
+- 🌱 I’m currently learning Full Stack Software development with Salesforce and Apex
 - 💞️ I’m looking to collaborate on Software Developement Projects
 - 📫 How to reach me: mushsalcha@gmail.com
 
